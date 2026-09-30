@@ -12,6 +12,7 @@ Analizar y evaluar el consumo doméstico de agua durante un período de 3 meses 
 
 ## 🛠 Herramientas Utilizadas
 • Power BI Desktop: Diseño y construcción de los reportes visuales, gráficos de líneas de tendencias y diagramas de áreas apiladas.
+
 • Power Query: Limpieza, transformación y estructuración de las métricas hídricas diarias.
 
 ---
